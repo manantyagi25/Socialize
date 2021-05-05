@@ -1,5 +1,7 @@
 # Socialize
-My first social media app on Android
+My first social media app on Android.
+
+Here's some screenshots of the app:
 
 ## App Screenshots
 
@@ -11,4 +13,3 @@ My first social media app on Android
  
   3. Friends List Page
   <img src="Screenshots/friendsPage.jpg?raw=true" Login Page width="40%" />
-  
